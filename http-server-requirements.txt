@@ -1,0 +1,27 @@
+1.sockets
+2.http protocol
+3.concurrency
+4.request handling
+5.response generation
+6:file handling
+7.error handling
+8.security
+9.configuration
+10.logging
+11.performance optimization
+12.cross-orogin-resource-sharing
+13.ssl/tls support
+14.content compression
+15.testing
+16.documentation
+
+socket types:
+
+AF_INET: represents ipv4 - for internet-based-communication
+
+SOCK__STREAM: stream socket, provides reliable connection-oriented communication channel. for http servers which use tcp as transfer protocol.
+
+
+
+
+
